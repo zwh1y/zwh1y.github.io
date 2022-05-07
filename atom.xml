@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-05-07T19:34:53.299Z</updated>
+  <updated>2022-05-07T20:11:57.196Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>再不睡觉我就要猝死了</title>
+    <link href="http://example.com/2022/05/08/%E5%86%8D%E4%B8%8D%E7%9D%A1%E8%A7%89%E6%88%91%E5%B0%B1%E8%A6%81%E7%8C%9D%E6%AD%BB%E4%BA%86/"/>
+    <id>http://example.com/2022/05/08/%E5%86%8D%E4%B8%8D%E7%9D%A1%E8%A7%89%E6%88%91%E5%B0%B1%E8%A6%81%E7%8C%9D%E6%AD%BB%E4%BA%86/</id>
+    <published>2022-05-07T20:10:46.000Z</published>
+    <updated>2022-05-07T20:11:57.196Z</updated>
+    
+    <content type="html"><![CDATA[<p>​hexo博客算是会生成了，接下来选用主题和如何规划分类是一个难题</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;​	hexo博客算是会生成了，接下来选用主题和如何规划分类是一个难题&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>mac上重新搭建的blog</title>
