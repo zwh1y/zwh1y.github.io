@@ -5,13 +5,13 @@ https://zwh1y.github.io/2022/05/08/hello-world/
 https://zwh1y.github.io/about/index.html
 https://zwh1y.github.io/books/index.html
 https://zwh1y.github.io/404.html
-https://zwh1y.github.io/tags/index.html
-https://zwh1y.github.io/links/index.html
 https://zwh1y.github.io/categories/index.html
 https://zwh1y.github.io/repository/index.html
+https://zwh1y.github.io/links/index.html
+https://zwh1y.github.io/tags/index.html
 https://zwh1y.github.io/
+https://zwh1y.github.io/tags/%E6%9D%82%E8%B0%88/
 https://zwh1y.github.io/tags/%E5%9F%BA%E7%A1%80/
 https://zwh1y.github.io/tags/%E6%A8%A1%E7%89%88/
-https://zwh1y.github.io/tags/%E6%9D%82%E8%B0%88/
-https://zwh1y.github.io/categories/%E7%AE%97%E6%B3%95/
 https://zwh1y.github.io/categories/%E7%94%9F%E6%B4%BB/
+https://zwh1y.github.io/categories/%E7%AE%97%E6%B3%95/
