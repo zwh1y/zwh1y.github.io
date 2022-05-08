@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://zwh1y.github.io/2022/05/08/AcWing%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80%E8%AF%BE%E7%AC%94%E8%AE%B0/</loc>
+    
+    <lastmod>2022-05-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://zwh1y.github.io/2022/05/08/%E5%86%8D%E4%B8%8D%E7%9D%A1%E8%A7%89%E6%88%91%E5%B0%B1%E8%A6%81%E7%8C%9D%E6%AD%BB%E4%BA%86/</loc>
     
     <lastmod>2022-05-08</lastmod>
@@ -107,10 +116,31 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://zwh1y.github.io/tags/%E5%9F%BA%E7%A1%80/</loc>
+    <lastmod>2022-05-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://zwh1y.github.io/tags/%E6%A8%A1%E7%89%88/</loc>
+    <lastmod>2022-05-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
     <loc>https://zwh1y.github.io/categories/%E7%94%9F%E6%B4%BB/</loc>
+    <lastmod>2022-05-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://zwh1y.github.io/categories/%E7%AE%97%E6%B3%95/</loc>
     <lastmod>2022-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
