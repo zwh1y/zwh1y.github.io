@@ -1,4 +1,13 @@
-http://example.com/2022/05/08/%E5%86%8D%E4%B8%8D%E7%9D%A1%E8%A7%89%E6%88%91%E5%B0%B1%E8%A6%81%E7%8C%9D%E6%AD%BB%E4%BA%86/
-http://example.com/2022/05/08/test1/
-http://example.com/2022/05/08/hello-world/
-http://example.com/
+https://zwh1y.github.io/2022/05/08/%E5%86%8D%E4%B8%8D%E7%9D%A1%E8%A7%89%E6%88%91%E5%B0%B1%E8%A6%81%E7%8C%9D%E6%AD%BB%E4%BA%86/
+https://zwh1y.github.io/2022/05/08/%E4%B8%8D%E6%83%B3%E7%8E%A9%E5%95%A6/
+https://zwh1y.github.io/404.html
+https://zwh1y.github.io/categories/index.html
+https://zwh1y.github.io/tags/index.html
+https://zwh1y.github.io/about/index.html
+https://zwh1y.github.io/repository/index.html
+https://zwh1y.github.io/links/index.html
+https://zwh1y.github.io/books/index.html
+https://zwh1y.github.io/2022/05/08/hello-world/
+https://zwh1y.github.io/
+https://zwh1y.github.io/tags/%E6%9D%82%E8%B0%88/
+https://zwh1y.github.io/categories/%E7%94%9F%E6%B4%BB/
