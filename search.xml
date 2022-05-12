@@ -12,28 +12,9 @@
       
       
       
-    </entry>
-    
-    
-    
-    <entry>
-      <title>music test</title>
-      <link href="/2022/05/11/%E9%9F%B3%E4%B9%90%E6%B5%8B%E8%AF%95/"/>
-      <url>/2022/05/11/%E9%9F%B3%E4%B9%90%E6%B5%8B%E8%AF%95/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> 测试 </category>
-          
-      </categories>
-      
-      
         <tags>
             
-            <tag> 音乐 </tag>
+            <tag> CMake </tag>
             
         </tags>
       
@@ -51,14 +32,41 @@
       
       <categories>
           
-          <category> 目标检测 </category>
+          <category> 论文 </category>
+          
+          <category> 实验室 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 实验室 </tag>
+            <tag> 3D Object </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>music test</title>
+      <link href="/2022/05/11/%E9%9F%B3%E4%B9%90%E6%B5%8B%E8%AF%95/"/>
+      <url>/2022/05/11/%E9%9F%B3%E4%B9%90%E6%B5%8B%E8%AF%95/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> Test </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 音乐 </tag>
             
         </tags>
       
