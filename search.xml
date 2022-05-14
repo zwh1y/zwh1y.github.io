@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>0. 绪论</title>
+      <link href="/2022/05/14/0-%E7%BB%AA%E8%AE%BA/"/>
+      <url>/2022/05/14/0-%E7%BB%AA%E8%AE%BA/</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://s2.loli.net/2022/05/15/7U9h451dzKFGBEY.png" class="lazyload" data-srcset="https://s2.loli.net/2022/05/15/7U9h451dzKFGBEY.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> ML &amp; DL </category>
+          
+          <category> 白板推导系列 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> ML </tag>
+            
+            <tag> 白板推导 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>CMake基础学习</title>
       <link href="/2022/05/12/CMake%E5%9F%BA%E7%A1%80%E5%AD%A6%E4%B9%A0/"/>
       <url>/2022/05/12/CMake%E5%9F%BA%E7%A1%80%E5%AD%A6%E4%B9%A0/</url>
