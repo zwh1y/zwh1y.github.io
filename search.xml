@@ -4,7 +4,7 @@
   
     
     <entry>
-      <title>第一讲 基础算法</title>
+      <title>第一讲 基础算法（算法基础课）</title>
       <link href="/2022/05/15/%E7%AC%AC%E4%B8%80%E8%AE%B2%20%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95%EF%BC%88%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80%E8%AF%BE%EF%BC%89/"/>
       <url>/2022/05/15/%E7%AC%AC%E4%B8%80%E8%AE%B2%20%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95%EF%BC%88%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80%E8%AF%BE%EF%BC%89/</url>
       
@@ -31,7 +31,7 @@
     
     
     <entry>
-      <title>0. 绪论</title>
+      <title>0. 绪论（白板推导）</title>
       <link href="/2022/05/14/0-%E7%BB%AA%E8%AE%BA%EF%BC%88%E7%99%BD%E6%9D%BF%E6%8E%A8%E5%AF%BC%EF%BC%89/"/>
       <url>/2022/05/14/0-%E7%BB%AA%E8%AE%BA%EF%BC%88%E7%99%BD%E6%9D%BF%E6%8E%A8%E5%AF%BC%EF%BC%89/</url>
       
@@ -79,31 +79,6 @@
     
     
     <entry>
-      <title>music test</title>
-      <link href="/2022/05/11/%E9%9F%B3%E4%B9%90%E6%B5%8B%E8%AF%95/"/>
-      <url>/2022/05/11/%E9%9F%B3%E4%B9%90%E6%B5%8B%E8%AF%95/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> Test </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 音乐 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>3D Object</title>
       <link href="/2022/05/11/SRT3D/"/>
       <url>/2022/05/11/SRT3D/</url>
@@ -123,6 +98,31 @@
         <tags>
             
             <tag> 3D Object </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>music test</title>
+      <link href="/2022/05/11/%E9%9F%B3%E4%B9%90%E6%B5%8B%E8%AF%95/"/>
+      <url>/2022/05/11/%E9%9F%B3%E4%B9%90%E6%B5%8B%E8%AF%95/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> Test </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 音乐 </tag>
             
         </tags>
       
